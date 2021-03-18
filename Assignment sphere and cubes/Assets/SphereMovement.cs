@@ -39,7 +39,7 @@ public class SphereMovement : MonoBehaviour
             {
                 PlayerPrefs.SetInt("highscore", score);
             }
-
+            rb.isKinematic = true;
             Invoke("MainScene", 5f);        
         }
     }

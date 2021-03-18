@@ -204,12 +204,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aed1fd7ea2efeca489760430e2de39a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 3765715248613682448}
   gameManager: {fileID: 3765715249786671583}
   speedMultiplier: 5
-  score: 0
-  lastcube: 
-  streakcount: 0
   scoreText: {fileID: 3765715248583909777}
   streakText: {fileID: 3765715249114695107}
   finalScoreDisplay: {fileID: 3765715249409322226}

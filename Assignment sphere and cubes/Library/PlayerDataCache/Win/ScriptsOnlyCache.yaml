@@ -64,27 +64,27 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11716}
+      Script: {instanceID: 11696}
     - Class: 114
-      Script: {instanceID: 11894}
+      Script: {instanceID: 11718}
     - Class: 114
       Script: {instanceID: 11934}
     - Class: 114
-      Script: {instanceID: 12368}
+      Script: {instanceID: 12048}
     - Class: 114
-      Script: {instanceID: 12586}
+      Script: {instanceID: 12370}
     - Class: 114
-      Script: {instanceID: 12828}
+      Script: {instanceID: 12588}
     - Class: 114
-      Script: {instanceID: 13362}
+      Script: {instanceID: 12830}
     - Class: 114
-      Script: {instanceID: 13598}
+      Script: {instanceID: 13364}
     - Class: 114
-      Script: {instanceID: 13652}
+      Script: {instanceID: 13600}
     - Class: 114
-      Script: {instanceID: 13748}
+      Script: {instanceID: 13654}
     - Class: 114
-      Script: {instanceID: 28294}
+      Script: {instanceID: 13750}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -106,6 +106,12 @@ ScriptsOnlyBuild:
     - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
@@ -154,12 +160,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ActivationTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 699619b86d9359741a4f58540298c80b
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Text
   - hash:
       serializedVersion: 2
       Hash: fd8b23ad3c9e81bc85b197495bc510ac
@@ -214,6 +214,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HighScore
   - hash:
       serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
@@ -544,12 +550,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: HighScore
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
